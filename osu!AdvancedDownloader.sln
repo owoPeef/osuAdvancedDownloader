@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu!AdvancedDownloader", "osu!AdvancedDownloader.csproj", "{36DCA063-1D25-4DD4-AA13-CED6CF3C2E62}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "osu!AdvancedSetup", "..\osu!AdvancedSetup\osu!AdvancedSetup.vdproj", "{46944FF6-8C44-420F-A426-D215DDE9CA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramUpdater", "..\ProgramUpdater\ProgramUpdater.csproj", "{06CCC4C9-FDD5-44D3-A447-98F7744AD53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DCA063-1D25-4DD4-AA13-CED6CF3C2E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DCA063-1D25-4DD4-AA13-CED6CF3C2E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DCA063-1D25-4DD4-AA13-CED6CF3C2E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DCA063-1D25-4DD4-AA13-CED6CF3C2E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46944FF6-8C44-420F-A426-D215DDE9CA5A}.Debug|Any CPU.ActiveCfg = Debug
+		{46944FF6-8C44-420F-A426-D215DDE9CA5A}.Release|Any CPU.ActiveCfg = Release
+		{06CCC4C9-FDD5-44D3-A447-98F7744AD53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CCC4C9-FDD5-44D3-A447-98F7744AD53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CCC4C9-FDD5-44D3-A447-98F7744AD53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CCC4C9-FDD5-44D3-A447-98F7744AD53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20329148-D9F6-48D0-84BB-C8139719C598}
+	EndGlobalSection
+EndGlobal
